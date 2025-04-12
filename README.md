@@ -1,4 +1,4 @@
-# **Resumen Ejecutivo: Framework CADD-SAML-DISCO para Arquitectos Cloud**
+# **Framework CADD-SAML-DISCO para Arquitectos Cloud**
 
 ## **🔷 Etapa CADD (Diseño Fundamental)**
 | **Componente** | **Foco**                  | **Best Practices**                          | **Herramientas Clave**                  |
