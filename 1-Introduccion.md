@@ -1,14 +1,12 @@
 # Introducción:
 
-"Hola, en esta sesión aprenderás qué es un arquitecto de soluciones en la nube. Es capaz de diseñar infraestructuras completas con su análisis y experiencia.
+Qué es un arquitecto de soluciones en la nube?. Es un profesional capaz de diseñar infraestructuras completas con su análisis y experiencia.
 
-Imagina esto: Estás trabajando en una empresa de TI, en un proyecto en la nube. Recibes el requisito de implementar un proyecto de extremo a extremo en la nube, que podría ser una arquitectura de tres capas o cualquier recurso específico.
+Imaginemos esto: Estás trabajando en una empresa de TI, en un proyecto en la nube. Recibes el requisito de implementar un proyecto de extremo a extremo en la nube, que podría ser una arquitectura de tres capas o cualquier recurso específico.
 
 Podría ser en cualquier nube: AWS, Azure, Google Cloud, Oracle, IBM, Alibaba o cualquier otro proveedor.
 
-Ahora dime, ¿qué cosas vendrían a tu mente como arquitecto de soluciones? Te sugiero pausar el video aquí y pensar durante dos minutos.
-
-De acuerdo, asumo que tienes tu lista preparada. Verifiquemos algunas de ellas. Recordemos qué cosas vendrían a nuestra mente:
+Una lista de lo que podria venir a nuestra mente seria:
 
 1. Comprensión básica del proyecto o recurso
 2. Un diagrama que llamamos arquitectura
@@ -20,10 +18,6 @@ De acuerdo, asumo que tienes tu lista preparada. Verifiquemos algunas de ellas. 
 8. ¿Cómo restaurar si todo el conjunto falla?
 9. ¿Cómo asegurar la configuración?
 10. ¿Cómo usar los recursos sabiamente para optimizar costos?
-
-Si no pensaste en todo esto, no hay problema. Esta fórmula infalible te guiará para considerarlo.
-
-Nos despedimos por ahora, nos vemos en la próxima sesión. Gracias."
 
 ## Explicación Técnica:
 
