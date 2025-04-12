@@ -79,7 +79,7 @@ Indicadores clave:
 3. Incluir mecanismos de rollback
 4. Documentar posibles puntos de fallo
 
-## **🎯 Conclusión **
+## **🎯 Conclusión**
 
 El dominio del despliegue cloud requiere:
 - **Conocimiento profundo** de las peculiaridades de cada servicio
