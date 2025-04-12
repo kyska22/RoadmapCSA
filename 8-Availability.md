@@ -59,14 +59,20 @@
 ```mermaid
 graph TD
     A[Usuario] --> B[Route 53 DNS]
-    B --> C[Region Este (ELB)]
-    B --> D[Region Oeste (ELB)]
-    C --> E[AZ1 - Auto Scaling Group]
-    C --> F[AZ2 - Auto Scaling Group]
-    E --> G[Aurora Multi-AZ]
-    F --> G
-    D --> H[AZ3 - Auto Scaling Group]
-    D --> I[AZ4 - Auto Scaling Group]
+    B --> C[Region Este ELB]
+    B --> D[Region Oeste ELB]
+
+    subgraph Region_Este
+        C --> E[AZ1 - Auto Scaling Group]
+        C --> F[AZ2 - Auto Scaling Group]
+        E --> G[Aurora Multi-AZ]
+        F --> G
+    end
+
+    subgraph Region_Oeste
+        D --> H[AZ3 - Auto Scaling Group]
+        D --> I[AZ4 - Auto Scaling Group]
+    end
 ```
 
 **Componentes Clave**:
@@ -86,7 +92,7 @@ graph TD
 2. Configurar replicación transaccional en tiempo real
 3. Implementar failover automatizado con pruebas
 
-## **🎯 Conclusión **
+## **🎯 Conclusión**
 
 Para dominar la disponibilidad:
 1. **Automatiza todo**: Failover manual = downtime asegurado
