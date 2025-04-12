@@ -85,7 +85,7 @@ Un arquitecto experto debe poder:
    - Plan de DR/Backup
 3. Justificación de decisiones técnicas
 
-## **🎯 Conclusión **
+## **🎯 Conclusión**
 
 El diseño cloud efectivo requiere:
 - **Profundo conocimiento técnico** de servicios disponibles
