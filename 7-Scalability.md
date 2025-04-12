@@ -85,7 +85,7 @@ graph TD
     D --> G
 ```
 
-## **🎯 Conclusión **
+## **🎯 Conclusión**
 
 Un arquitecto cloud competente debe:
 1. **Prever necesidades** de escalabilidad desde el diseño
