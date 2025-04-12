@@ -72,7 +72,7 @@ Un buen diagrama debe ser entendido por:
 1. HLD (para presentación ejecutiva)
 2. LLD (para equipo de implementación)
 
-## **🎯 Conclusión **
+## **🎯 Conclusión**
 
 Un arquitecto cloud competente debe poder:
 1. **Traducir requisitos** a diagramas claros
